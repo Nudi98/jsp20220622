@@ -23,5 +23,7 @@
 			out.println("로그인 실패<br>");
 		}
 	%>
+	<br>
+	<a href="sessionCheck.jsp">세션확인 페이지 이동</a>
 </body>
 </html>
